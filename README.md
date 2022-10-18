@@ -97,13 +97,6 @@ programming journey.
 **Note:** You must add the corresponding auto-generated file in the `.gitignore` file.
 
 ## Authors 🐱‍💻
-
-Hi! I am Adarsh Pandey, a full stack web developer with expertise in ReactJs and Django.
-I am currently in 3rd year of my Computer Science and Engineering degree and
-like making videos on YouTube about various topics on various programming topics.
-
-Below are my social media links:-
-
 - [GitHub/@Malwareman007](https://www.github.com/Malwareman007)
 
 ## End Notes 📝
