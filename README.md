@@ -15,12 +15,6 @@ requests for programs containing code for any
 5. Authors
 6. End notes
 
-## About Hacktoberfest 🤖
-
-Below is a video explaining what Hacktoberfest is. Watch it and register in hacktoberfest 2022.
-It has explained everything required to get started with Hacktoberfest. Click the image below to open.
-
-
 ## Contributing & Guidelines 👀
 
 Contributions are always welcome!
