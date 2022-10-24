@@ -1,10 +1,12 @@
-
+# NOT ACCEPTING ANY PR BECAUSE THIS REPO HAS BEEN EXCLUDED
 # 🎃 Hacktoberfest2022-DSA 💻
 
 Participate in Hacktoberfest and contribute to Open Source using this repository.
 We aim to help you get started in Open Source contribution by accepting your pull
 requests for programs containing code for any
 **Data Structures and Algorithms problem only**.
+
+![image](https://user-images.githubusercontent.com/116083305/197601981-2331e0f8-0d9f-49db-9470-d912de5a7a27.png)
 
 ## Table of contents:-
 
